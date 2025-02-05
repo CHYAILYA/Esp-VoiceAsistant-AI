@@ -2,9 +2,9 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "HURAA";
-const char* password = "12345678";
-const char* Gemini_Token = "AIzaSyAo2JkTPfioazAWWhA-C5bv_abS3uaoSG8";
+const char* ssid = "you ssid";
+const char* password = "you-password";
+const char* Gemini_Token = "api key";
 const char* Gemini_Max_Tokens = "100";
 String res = "";
 
