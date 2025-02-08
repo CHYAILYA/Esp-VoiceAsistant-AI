@@ -1,28 +1,6 @@
 create issue if there is a problem in coding or commenting on the video that shows this coding
 playlist
 
-
-## Environment Variables
-This file lists the required Python libraries along with their versions to ensure compatibility.
-To run this project, you will need to add the following environment variables to your .env file
-
-INSTALL HERE
-```bash
-pip install -r requirements.txt
-```
-OR HERE
-```bash
-pip install -q -U google-generativeai
-sudo apt-get install portaudio19-dev
-sudo apt-get install python3-pyaudio
-pip install speechrecognition
-pip install SpeechRecognition pyaudio
-pip install pyttsx3
-pip install openai==0.28
-pip install google-cloud-texttospeech
-``````
-
-
  - [TUTORIAL IN HERE ](https://www.youtube.com/watch?v=Sr4QnzyEeJ8)
 - [TUTORIAL IN HERE ](https://www.youtube.com/playlist?list=PLwnQwS-GpQ7TdxadamOyX5PrGnAaXW1Ur)
 
